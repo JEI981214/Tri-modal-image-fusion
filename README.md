@@ -11,7 +11,13 @@ Usage of this code is free for research purposes only.
 
 Please refer to the above publication if you use this code. Thank you.
 
-The demo file is main.m.
+The demo file:
+
+！！！If you want to fuse two modal gray images, please run main_for_two_images_gray.m
+
+！！！If you want to fuse two modal images (one gray and one color), please run main_for_two_images_color.m
+
+！！！If you want to fuse tri-modal images, please run main_for_trimodal_images.m
 
 Do not hesitate to contact me if you meet any problems when using this code.
 
